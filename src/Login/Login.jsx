@@ -44,7 +44,7 @@ const Login = () => {
               Password
             </label>
              <div class="input-group">
-                {/* Lock Icon */}
+                
       <span className='input-group-text'><i className="bi bi-lock"></i></span>
               <input
               
